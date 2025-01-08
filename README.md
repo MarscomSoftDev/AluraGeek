@@ -32,3 +32,7 @@ reset.css: Reseteo de configuraciones predeterminadas del navegador.
 
 ![image](https://github.com/user-attachments/assets/b9a66f86-e209-49fd-9785-39f51687a263)
 
+
+![image](https://github.com/user-attachments/assets/7b099008-10df-4fa9-bed2-d20a1444efc9)
+
+
