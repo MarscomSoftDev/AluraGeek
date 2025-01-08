@@ -27,6 +27,11 @@ reset.css: Reseteo de configuraciones predeterminadas del navegador.
 🗑️ Eliminar un producto: Haz clic en el botón de eliminar para quitar el producto de la lista y del servidor.
 🔍 Visualización en Modal: Al hacer clic en la imagen, se abre un modal con una vista ampliada, el nombre y el precio del producto.
 
+🛠️ **Insignia Ganada**
+
+![image](https://github.com/user-attachments/assets/3b950439-5204-40e7-8999-e3ac2fe8c0a3)
+
+
 🌟 **Capturas de Pantalla**
 
 
