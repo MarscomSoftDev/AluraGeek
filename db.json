@@ -1,0 +1,124 @@
+{
+  "productos": [
+    {
+      "nombre": "nombre 1",
+      "precio": 1,
+      "imagen": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/796.jpg",
+      "id": "1"
+    },
+    {
+      "nombre": "nombre 2",
+      "precio": 45,
+      "imagen": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/841.jpg",
+      "id": "2"
+    },
+    {
+      "nombre": "nombre 3",
+      "precio": 92,
+      "imagen": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/258.jpg",
+      "id": "3"
+    },
+    {
+      "nombre": "nombre 4",
+      "precio": 1,
+      "imagen": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1092.jpg",
+      "id": "4"
+    },
+    {
+      "nombre": "nombre 5",
+      "precio": 88,
+      "imagen": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/423.jpg",
+      "id": "5"
+    },
+    {
+      "nombre": "nombre 6",
+      "precio": 80,
+      "imagen": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/176.jpg",
+      "id": "6"
+    },
+    {
+      "nombre": "nombre 7",
+      "precio": 73,
+      "imagen": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/557.jpg",
+      "id": "7"
+    },
+    {
+      "nombre": "nombre 8",
+      "precio": 54,
+      "imagen": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1106.jpg",
+      "id": "8"
+    },
+    {
+      "nombre": "nombre 9",
+      "precio": 58,
+      "imagen": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1145.jpg",
+      "id": "9"
+    },
+    {
+      "nombre": "nombre 10",
+      "precio": 3,
+      "imagen": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/904.jpg",
+      "id": "10"
+    },
+    {
+      "nombre": "nombre 11",
+      "precio": 64,
+      "imagen": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/136.jpg",
+      "id": "11"
+    },
+    {
+      "nombre": "nombre 12",
+      "precio": 66,
+      "imagen": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/698.jpg",
+      "id": "12"
+    },
+    {
+      "nombre": "nombre 13",
+      "precio": 98,
+      "imagen": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1094.jpg",
+      "id": "13"
+    },
+    {
+      "nombre": "nombre 14",
+      "precio": 73,
+      "imagen": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/985.jpg",
+      "id": "14"
+    },
+    {
+      "nombre": "nombre 15",
+      "precio": 58,
+      "imagen": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/482.jpg",
+      "id": "15"
+    },
+    {
+      "nombre": "nombre 16",
+      "precio": 30,
+      "imagen": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/881.jpg",
+      "id": "16"
+    },
+    {
+      "nombre": "nombre 17",
+      "precio": 32,
+      "imagen": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/638.jpg",
+      "id": "17"
+    },
+    {
+      "nombre": "nombre 18",
+      "precio": 31,
+      "imagen": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/128.jpg",
+      "id": "18"
+    },
+    {
+      "nombre": "nombre 19",
+      "precio": 40,
+      "imagen": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/754.jpg",
+      "id": "19"
+    },
+    {
+      "nombre": "nombre 20",
+      "precio": 84,
+      "imagen": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/855.jpg",
+      "id": "20"
+    }
+  ]
+}

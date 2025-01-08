@@ -1,0 +1,14 @@
+{
+  "name": "aluragreek",
+  "version": "1.0.0",
+  "description": "plataforma e-commerce proyecto alura latam",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AluraGeek</title>
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+      rel="stylesheet"
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Kaisei+Decol:wght@400;500;700&family=Press+Start+2P&display=swap");
+    </style>
+    <link rel="stylesheet" href="reset.css" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <h1><img src="Imagenes/image 1.png" />AluraGeek</h1>
+      </div>
+    </header>
+
+    <main>
+      <!-- Sección principal de productos -->
+      <section class="productos">
+        <h2>MIS PRODUCTOS:</h2>
+        <div class="grid-productos">
+          <!-- Cada producto -->
+          <article hidden class="producto-nuevo">
+            <img src="" alt="" />
+            <h3></h3>
+            <p></p>
+            <button class="eliminar" aria-label="Eliminar producto">
+              <i class="fa-solid fa-trash"></i>
+            </button>
+          </article>
+        </div>
+      </section>
+
+      <!-- Sección secundaria para agregar productos -->
+      <aside class="agregar-producto">
+        <h2>AGREGAR PRODUCTO:</h2>
+        <form id="add-product-form">
+          <input type="text" id="nombre" placeholder="nombre..." required />
+
+          <input type="text" id="precio" placeholder="precio..." required />
+
+          <input type="text" id="imagen" placeholder="imagen..." required />
+
+          <div class="botones">
+            <button type="submit">Enviar</button>
+            <button type="reset">Limpiar</button>
+          </div>
+        </form>
+      </aside>
+
+      <!-- Modal -->
+      <div id="modal" class="modal" onclick="closeModal()">
+        <div class="modal-content">
+          <img id="modal-image" src="" alt="Producto" />
+          <h3 id="modal-title"></h3>
+        </div>
+      </div>
+    </main>
+
+    <footer>
+      <p><img src="Imagenes/image 1.png" />AluraGeek</p>
+
+      <p class="parrafoDos">
+        DESARROLLADO POR
+        <a
+          class="usuario"
+          href="https://github.com/MarscomSoftDev"
+          target="_blank"
+        >
+          MARSCOM
+        </a>
+      </p>
+      <p class="parrafoTres">Alura Latam 2025</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
