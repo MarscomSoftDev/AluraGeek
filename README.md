@@ -1,4 +1,4 @@
-🛍️ #**AluraGeek**
+🛍️ **#AluraGeek**
 **AluraGeek** es una plataforma web interactiva creada para gestionar y mostrar productos de una tienda virtual. El proyecto permite a los usuarios **agregar, visualizar, editar y eliminar** productos de forma dinámica, todo basado en un diseño limpio y atractivo. Está construido con tecnologías modernas y orientado a la facilidad de uso y la interacción fluida.
 
 ✨ ##**Características**
